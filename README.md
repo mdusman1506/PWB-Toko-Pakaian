@@ -3,9 +3,9 @@
 Project ini adalah aplikasi Point of Sale (POS) berbasis web untuk manajemen toko pakaian, dilengkapi dengan fitur multi-role (Admin & Kasir), manajemen stok, dan laporan penjualan harian.
 
 **Identitas Mahasiswa:**
-- **Nama:** [NAMA LENGKAP KAMU]
-- **NIM:** [NIM KAMU]
-- **Kelas:** [KELAS KAMU]
+- **Nama:** Muhammad Usman
+- **NIM:** 411231141
+- **Semester:** 5 
 - **Mata Kuliah:** Pemrograman Web Lanjut
 
 ---
