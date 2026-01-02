@@ -34,11 +34,3 @@ Project ini adalah aplikasi Point of Sale (POS) berbasis web untuk manajemen tok
 - **Tools:** VS Code, XAMPP/Laragon
 
 ---
-
-## 💻 Cara Instalasi (Untuk Dosen/Penguji)
-
-Jika ingin menjalankan project ini di komputer lokal, silakan ikuti langkah berikut:
-
-1. **Clone Repository**
-   ```bash
-   git clone [https://github.com/](https://github.com/)mdusman1506/PWB-Toko-Pakaian.git
