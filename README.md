@@ -41,4 +41,4 @@ Jika ingin menjalankan project ini di komputer lokal, silakan ikuti langkah beri
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/](https://github.com/)[USERNAME-GITHUB-KAMU]/uas-toko-pakaian.git
+   git clone [https://github.com/](https://github.com/)mdusman1506/PWB-Toko-Pakaian.git
